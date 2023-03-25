@@ -1,6 +1,5 @@
-# Hi This is a readme file
+# This is a readme file
 
-### This is for testing 
+### Testing branch
 
-// Please delete this readme file
-// and do it in subbranch
+// I have created a sub-branch and a readme file
