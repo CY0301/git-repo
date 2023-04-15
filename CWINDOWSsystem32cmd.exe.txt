@@ -409,7 +409,7 @@ discord or IRC.
 
   For more information regarding individual wargames, visit
   http://www.overthewire.org/wargames/
-
+
   For support, questions or comments, contact us on discord or IRC.
 
   Enjoy your stay!
