@@ -1,10 +1,7 @@
-# This is a readme file
+# Readme file for CTF challenges
 
-### test branch
-
-1. write-up for OverTheWire-Bandit
-2. log file for Bandit0-6
-3. explaination & sample code for C++ searching algo
-4. write-up for SKR CTF
+1. SKR CTF
+2. OverTheWire-Bandit
+3. Binary Search for cpp
 
 
