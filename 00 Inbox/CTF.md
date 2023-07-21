@@ -1,0 +1,1 @@
+CTF is a *gamified challenge or competition* that is for all of the people to *learn, test their skills and knowledge*. 
